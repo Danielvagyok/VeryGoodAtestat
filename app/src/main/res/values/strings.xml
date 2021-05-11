@@ -1,0 +1,959 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <string name="app_name">My Application00</string>
+    <string name="edit_message">Enter your message</string>
+    <string name="button_send">Send!</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="summary_Romeo_and_Juliet">
+"<![CDATA[       An age-old vendetta between two powerful families erupts into bloodshed. A group of masked Montagues risk further conflict by gatecrashing a Capulet party. A young lovesick Romeo Montague falls instantly in love with Juliet Capulet, who is due to marry her father’s choice, the County Paris. With the help of Juliet’s nurse, the women arrange for the couple to marry the next day, but Romeo’s attempt to halt a street fight leads to the death of Juliet’s own cousin, Tybalt, for which Romeo is banished. In a desperate attempt to be reunited with Romeo, Juliet follows the Friar’s plot and fakes her own death. The message fails to reach Romeo, and believing Juliet dead, he takes his life in her tomb. Juliet wakes to find Romeo’s corpse beside her and kills herself. The grieving family agree to end their feud.
+    ]]>"
+    </string>
+    <string name="summary_Hamlet">
+"<![CDATA[       The ghost of the King of Denmark tells his son Hamlet to avenge his murder by killing the new king, Hamlet\'s uncle. Hamlet feigns madness, contemplates life and death, and seeks revenge. His uncle, fearing for his life, also devises plots to kill Hamlet. The play ends with a duel, during which the King, Queen, Hamlet's opponent and Hamlet himself are all killed. "
+    ]]>"</string>
+    <string name="summary_The_Faerie_Queene">
+"<![CDATA[       In The Faerie Queene, Spenser creates an allegory: The characters of his far-off, fanciful \"Faerie Land\" are meant to have a symbolic meaning in the real world. In Books I and III, the poet follows the journeys of two knights, Redcrosse and Britomart, and in doing so he examines the two virtues he considers most important to Christian life—Holiness and Chastity. Redcrosse, the knight of Holiness, is much like the Apostle Peter: In his eagerness to serve his Lord, he gets himself into unforeseen trouble that he is not yet virtuous enough to handle. His quest is to be united with Una, who signifies Truth—Holiness cannot be attained without knowledge of Christian truth. In his immature state, he mistakes falsehood for truth by following the deceitful witch Duessa. He pays for this mistake with suffering, but in the end, this suffering makes way for his recovery in the House of Holiness, aided by Faith, Hope, and Charity. With newfound strength and the grace of God, he is able to conquer the dragon that represents all the evil in the world.<br><br>
+        In a different manner, Britomart also progresses in her virtue of chastity. She already has the strength to resist lust, but she is not ready to accept love, the love she feels when she sees a vision of her future husband in a magic mirror. She learns to incorporate chaste resistance with active love, which is what Spenser sees as true Christian love: moderation. Whereas Redcrosse made his own mistakes (to show to us the consequences of an unholy life), it is not Britomart but the other characters in Book III who show the destructive power of an unchaste life. Spenser says in his Preface to the poem that his goal is to show how a virtuous man should live. The themes of Book I and Book III come together in the idea that our native virtue must be augmented or transformed if it is to become true Christian virtue. Spenser has a high regard for the natural qualities of creatures; he shows that the satyrs, the lion, and many human characters have an inborn inclination toward the good. And yet, he consistently shows their failure when faced with the worst evils. These evils can only be defeated by the Christian good.<br><br>
+        High on Spenser\'s list of evils is the Catholic Church, and this enmity lends a political overtone to the poem, since the religious conflicts of the time were inextricably tied to politics. The poet is unashamed in his promotion of his beloved monarch, Queen Elizabeth; he takes considerable historical license in connecting her line with King Arthur. Spenser took a great pride in his country and in his Protestant faith. He took aim at very real corruption within the Catholic Church; such attacks were by no means unusual in his day, but his use of them in an epic poem raised his criticism above the level of the propagandists.\n<br><br>
+        As a purely poetic work, The Faerie Queene was neither original nor always remarkable; Spenser depends heavily on his Italian romantic sources (Ariosto &amp; Tasso), as well as medieval and classical works like The Romance of the Rose and The Aeneid. It is Spenser\'s blending of such diverse sources with a high-minded allegory that makes the poem unique and remarkable. He is able to take images from superficial romances, courtly love stories, and tragic epics alike, and give them real importance in the context of the poem. No image is let fall from Spenser\'s pen that does not have grave significance, and this gives The Faerie Queene the richness that has kept it high among the ranks of the greatest poetry in the English language.<br><br>
+    ]]>"
+    </string>
+    <string name="summary_Biathanathos">
+"<![CDATA[       Biathanatos (from Greek meaning "life and death") is a work by the English writer and clergyman John Donne. Written in 1608 and published after his death, it contains a heterodox defense of self-homicide (suicide), listing prominent Biblical examples including Jesus, Samson, Saul, and Judas Iscariot. Thomas De Quincey responds to the work in his Writings VIII, page 336, and Jorge Luis Borges responds in Biathanatos, in his collected non-fiction
+    ]]>"
+    </string>
+    <string name="summary_Auld_Lang_Syne">
+"<![CDATA[       Should auld acquaintance be forgot,<br>
+        And never brought to mind?<br>
+        Should auld acquaintance be forgot,<br>
+        And auld lang syne!<br>
+<br>
+     <b>Chorus</b>:<br>
+    For auld lang syne, my dear,<br>
+     For auld lang syne.<br>
+     We\'ll tak a cup o\' kindness yet,<br>
+     For auld lang syne.<br>
+<br>
+    And surely ye\'ll be your pint stowp!<br>
+    And surely I\'ll be mine!<br>
+    And we\'ll tak a cup o\' kindness yet,<br>
+    For auld lang syne.<br>
+<br>
+     <b>Chorus</b><br>
+<br>
+    We twa hae run about the braes,<br>
+    And pou'd the gowans fine;<br>
+    But we've wander'd mony a weary fit,<br>
+    Sin' auld lang syne.<br>
+<br>
+     <b>Chorus</b><br>
+<br>
+    We twa hae paidl'd in the burn,<br>
+    Frae morning sun till dine;<br>
+    But seas between us braid hae roar'd<br>
+    Sin' auld lang syne.<br>
+<br>
+     <b>Chorus</b><br>
+<br>
+    And there's a hand, my trusty fere!<br>
+    And gie's a hand o' thine!<br>
+    And we'll tak a right gude-willie waught,<br>
+    For auld lang syne.<br>
+<br>
+     <b>Chorus</b>
+     ]]>"
+    </string>
+    <string name="summary_The_Rime_of_the_Ancient_Mariner">
+"<![CDATA[       <h3>Argument</h3><br>
+<br>
+        How a Ship having passed the Line was driven by storms to the cold Country towards the South Pole; and how from thence she made her course to the tropical Latitude of the Great Pacific Ocean; and of the strange things that befell; and in what manner the Ancyent Marinere came back to his own Country.\n<br>
+<h3>PART I</h3><br>
+It is an ancient Mariner,<br>
+And he stoppeth one of three.<br>
+\'By thy long grey beard and glittering eye,<br>
+Now wherefore stopp\'st thou me?<br>
+<br>
+The Bridegroom\'s doors are opened wide,<br>
+And I am next of kin;<br>
+The guests are met, the feast is set:<br>
+May\'st hear the merry din.\'<br>
+<br>
+He holds him with his skinny hand,<br>
+\'There was a ship,\' quoth he.<br>
+\'Hold off! unhand me, grey-beard loon!\'<br>
+Eftsoons his hand dropt he.<br>
+<br>
+He holds him with his glittering eye—<br>
+The Wedding-Guest stood still,<br>
+And listens like a three years\' child:<br>
+The Mariner hath his will.<br>
+<br>
+The Wedding-Guest sat on a stone:<br>
+He cannot choose but hear;<br>
+And thus spake on that ancient man,<br>
+The bright-eyed Mariner.<br>
+<br>
+\'The ship was cheered, the harbour cleared,<br>
+Merrily did we drop<br>
+Below the kirk, below the hill,<br>
+Below the lighthouse top.<br>
+<br>
+The Sun came up upon the left,<br>
+Out of the sea came he!<br>
+And he shone bright, and on the right<br>
+Went down into the sea.<br>
+<br>
+Higher and higher every day,<br>
+Till over the mast at noon—\'<br>
+The Wedding-Guest here beat his breast,<br>
+For he heard the loud bassoon.<br>
+<br>
+The bride hath paced into the hall,<br>
+Red as a rose is she;<br>
+Nodding their heads before her goes<br>
+The merry minstrelsy.<br>
+<br>
+The Wedding-Guest he beat his breast,<br>
+Yet he cannot choose but hear;<br>
+And thus spake on that ancient man,<br>
+The bright-eyed Mariner.<br>
+<br>
+And now the STORM-BLAST came, and he<br>
+Was tyrannous and strong:<br>
+He struck with his o\'ertaking wings,<br>
+And chased us south along.<br>
+<br>
+With sloping masts and dipping prow,<br>
+As who pursued with yell and blow<br>
+Still treads the shadow of his foe,<br>
+And forward bends his head,<br>
+The ship drove fast, loud roared the blast,<br>
+And southward aye we fled.<br>
+<br>
+And now there came both mist and snow,<br>
+And it grew wondrous cold:<br>
+And ice, mast-high, came floating by,<br>
+As green as emerald.<br>
+<br>
+And through the drifts the snowy clifts<br>
+Did send a dismal sheen:<br>
+Nor shapes of men nor beasts we ken—<br>
+The ice was all between.<br>
+<br>
+The ice was here, the ice was there,<br>
+The ice was all around:<br>
+It cracked and growled, and roared and howled,<br>
+Like noises in a swound!<br>
+<br>
+At length did cross an Albatross,<br>
+Thorough the fog it came;<br>
+As if it had been a Christian soul,<br>
+We hailed it in God\'s name.<br>
+<br>
+It ate the food it ne\'er had eat,<br>
+And round and round it flew.<br>
+The ice did split with a thunder-fit;<br>
+The helmsman steered us through!<br>
+<br>
+And a good south wind sprung up behind;<br>
+The Albatross did follow,<br>
+And every day, for food or play,<br>
+Came to the mariner\'s hollo!<br>
+<br>
+In mist or cloud, on mast or shroud,<br>
+It perched for vespers nine;<br>
+Whiles all the night, through fog-smoke white,<br>
+Glimmered the white Moon-shine.\'<br>
+<br>
+\'God save thee, ancient Mariner!<br>
+From the fiends, that plague thee thus!—<br>
+Why look\'st thou so?\'—With my cross-bow<br>
+I shot the ALBATROSS.<br>
+<br>
+<h3>PART II</h3><br>
+The Sun now rose upon the right:<br>
+Out of the sea came he,<br>
+Still hid in mist, and on the left<br>
+Went down into the sea.<br>
+<br>
+And the good south wind still blew behind,<br>
+But no sweet bird did follow,<br>
+Nor any day for food or play<br>
+Came to the mariner\'s hollo!<br>
+<br>
+And I had done a hellish thing,<br>
+And it would work \'em woe:<br>
+For all averred, I had killed the bird<br>
+That made the breeze to blow.<br>
+Ah wretch! said they, the bird to slay,<br>
+That made the breeze to blow!<br>
+<br>
+Nor dim nor red, like God\'s own head,<br>
+The glorious Sun uprist:<br>
+Then all averred, I had killed the bird<br>
+That brought the fog and mist.<br>
+\'Twas right, said they, such birds to slay,<br>
+That bring the fog and mist.<br>
+<br>
+The fair breeze blew, the white foam flew,<br>
+The furrow followed free;<br>
+We were the first that ever burst<br>
+Into that silent sea.<br>
+<br>
+Down dropt the breeze, the sails dropt down,<br>
+\'Twas sad as sad could be;<br>
+And we did speak only to break<br>
+The silence of the sea!<br>
+<br>
+All in a hot and copper sky,<br>
+The bloody Sun, at noon,<br>
+Right up above the mast did stand,<br>
+No bigger than the Moon.<br>
+<br>
+Day after day, day after day,<br>
+We stuck, nor breath nor motion;<br>
+As idle as a painted ship<br>
+Upon a painted ocean.<br>
+<br>
+Water, water, every where,<br>
+And all the boards did shrink;<br>
+Water, water, every where,<br>
+Nor any drop to drink.<br>
+<br>
+The very deep did rot: O Christ!<br>
+That ever this should be!<br>
+Yea, slimy things did crawl with legs<br>
+Upon the slimy sea.<br>
+<br>
+About, about, in reel and rout<br>
+The death-fires danced at night;<br>
+The water, like a witch\'s oils,<br>
+Burnt green, and blue and white.<br>
+<br>
+And some in dreams assurèd were<br>
+Of the Spirit that plagued us so;<br>
+Nine fathom deep he had followed us<br>
+From the land of mist and snow.<br>
+<br>
+And every tongue, through utter drought,<br>
+Was withered at the root;<br>
+We could not speak, no more than if<br>
+We had been choked with soot.<br>
+<br>
+Ah! well a-day! what evil looks<br>
+Had I from old and young!<br>
+Instead of the cross, the Albatross<br>
+About my neck was hung.<br>
+<br>
+<h3>PART III</h3><br>
+There passed a weary time. Each throat<br>
+Was parched, and glazed each eye.<br>
+A weary time! a weary time!<br>
+How glazed each weary eye,<br>
+<br>
+When looking westward, I beheld<br>
+A something in the sky.<br>
+<br>
+At first it seemed a little speck,<br>
+And then it seemed a mist;<br>
+It moved and moved, and took at last<br>
+A certain shape, I wist.<br>
+<br>
+A speck, a mist, a shape, I wist!<br>
+And still it neared and neared:<br>
+As if it dodged a water-sprite,<br>
+It plunged and tacked and veered.<br>
+<br>
+With throats unslaked, with black lips baked,<br>
+We could nor laugh nor wail;<br>
+Through utter drought all dumb we stood!<br>
+I bit my arm, I sucked the blood,<br>
+And cried, A sail! a sail!<br>
+<br>
+With throats unslaked, with black lips baked,<br>
+Agape they heard me call:<br>
+Gramercy! they for joy did grin,<br>
+And all at once their breath drew in.<br>
+As they were drinking all.<br>
+<br>
+See! see! (I cried) she tacks no more!<br>
+Hither to work us weal;<br>
+Without a breeze, without a tide,<br>
+She steadies with upright keel!<br>
+<br>
+The western wave was all a-flame.<br>
+The day was well nigh done!<br>
+Almost upon the western wave<br>
+Rested the broad bright Sun;<br>
+When that strange shape drove suddenly<br>
+Betwixt us and the Sun.<br>
+<br>
+And straight the Sun was flecked with bars,<br>
+(Heaven\'s Mother send us grace!)<br>
+As if through a dungeon-grate he peered<br>
+With broad and burning face.<br>
+<br>
+Alas! (thought I, and my heart beat loud)<br>
+How fast she nears and nears!<br>
+Are those her sails that glance in the Sun,<br>
+Like restless gossameres?<br>
+<br>
+Are those her ribs through which the Sun<br>
+Did peer, as through a grate?<br>
+And is that Woman all her crew?<br>
+Is that a DEATH? and are there two?<br>
+Is DEATH that woman\'s mate?<br>
+<br>
+Her lips were red, her looks were free,<br>
+Her locks were yellow as gold:<br>
+Her skin was as white as leprosy,<br>
+The Night-mare LIFE-IN-DEATH was she,<br>
+Who thicks man\'s blood with cold.<br>
+<br>
+The naked hulk alongside came,<br>
+And the twain were casting dice;<br>
+\'The game is done! I\'ve won! I\'ve won!\'<br>
+Quoth she, and whistles thrice.<br>
+<br>
+The Sun\'s rim dips; the stars rush out;<br>
+At one stride comes the dark;<br>
+With far-heard whisper, o\'er the sea,<br>
+Off shot the spectre-bark.<br>
+<br>
+We listened and looked sideways up!<br>
+Fear at my heart, as at a cup,<br>
+My life-blood seemed to sip!<br>
+The stars were dim, and thick the night,<br>
+The steersman\'s face by his lamp gleamed white;<br>
+From the sails the dew did drip—<br>
+Till clomb above the eastern bar<br>
+The hornèd Moon, with one bright star<br>
+Within the nether tip.<br>
+<br>
+One after one, by the star-dogged Moon,<br>
+Too quick for groan or sigh,<br>
+Each turned his face with a ghastly pang,<br>
+And cursed me with his eye.<br>
+<br>
+Four times fifty living men,<br>
+(And I heard nor sigh nor groan)<br>
+With heavy thump, a lifeless lump,<br>
+They dropped down one by one.<br>
+<br>
+The souls did from their bodies fly,—<br>
+They fled to bliss or woe!<br>
+And every soul, it passed me by,<br>
+Like the whizz of my cross-bow!<br>
+<br>
+<h3>PART IV</h3><br>
+\'I fear thee, ancient Mariner!<br>
+I fear thy skinny hand!<br>
+And thou art long, and lank, and brown,<br>
+As is the ribbed sea-sand.<br>
+<br>
+I fear thee and thy glittering eye,<br>
+And thy skinny hand, so brown.\'—<br>
+Fear not, fear not, thou Wedding-Guest!<br>
+This body dropt not down.<br>
+<br>
+Alone, alone, all, all alone,<br>
+Alone on a wide wide sea!<br>
+And never a saint took pity on<br>
+My soul in agony.<br>
+<br>
+The many men, so beautiful!<br>
+And they all dead did lie:<br>
+And a thousand thousand slimy things<br>
+Lived on; and so did I.<br>
+<br>
+I looked upon the rotting sea,<br>
+And drew my eyes away;<br>
+I looked upon the rotting deck,<br>
+And there the dead men lay.<br>
+<br>
+I looked to heaven, and tried to pray;<br>
+But or ever a prayer had gusht,<br>
+A wicked whisper came, and made<br>
+My heart as dry as dust.<br>
+<br>
+I closed my lids, and kept them close,<br>
+And the balls like pulses beat;<br>
+For the sky and the sea, and the sea and the sky<br>
+Lay dead like a load on my weary eye,<br>
+And the dead were at my feet.<br>
+<br>
+The cold sweat melted from their limbs,<br>
+Nor rot nor reek did they:<br>
+The look with which they looked on me<br>
+Had never passed away.<br>
+<br>
+An orphan\'s curse would drag to hell<br>
+A spirit from on high;<br>
+But oh! more horrible than that<br>
+Is the curse in a dead man\'s eye!<br>
+Seven days, seven nights, I saw that curse,<br>
+And yet I could not die.<br>
+<br>
+The moving Moon went up the sky,<br>
+And no where did abide:<br>
+Softly she was going up,<br>
+And a star or two beside—<br>
+<br>
+Her beams bemocked the sultry main,<br>
+Like April hoar-frost spread;<br>
+But where the ship\'s huge shadow lay,<br>
+The charmèd water burnt alway<br>
+A still and awful red.<br>
+<br>
+Beyond the shadow of the ship,<br>
+I watched the water-snakes:<br>
+They moved in tracks of shining white,<br>
+And when they reared, the elfish light<br>
+Fell off in hoary flakes.<br>
+<br>
+Within the shadow of the ship<br>
+I watched their rich attire:<br>
+Blue, glossy green, and velvet black,<br>
+They coiled and swam; and every track<br>
+Was a flash of golden fire.<br>
+<br>
+O happy living things! no tongue<br>
+Their beauty might declare:<br>
+A spring of love gushed from my heart,<br>
+And I blessed them unaware:<br>
+Sure my kind saint took pity on me,<br>
+And I blessed them unaware.<br>
+<br>
+The self-same moment I could pray;<br>
+And from my neck so free<br>
+The Albatross fell off, and sank<br>
+Like lead into the sea.<br>
+<br>
+<h3>PART V</h3><br>
+Oh sleep! it is a gentle thing,<br>
+Beloved from pole to pole!<br>
+To Mary Queen the praise be given!<br>
+She sent the gentle sleep from Heaven,<br>
+That slid into my soul.<br>
+<br>
+The silly buckets on the deck,<br>
+That had so long remained,<br>
+I dreamt that they were filled with dew;<br>
+And when I awoke, it rained.<br>
+<br>
+My lips were wet, my throat was cold,<br>
+My garments all were dank;<br>
+Sure I had drunken in my dreams,<br>
+And still my body drank.<br>
+<br>
+I moved, and could not feel my limbs:<br>
+I was so light—almost<br>
+I thought that I had died in sleep,<br>
+And was a blessed ghost.<br>
+<br>
+And soon I heard a roaring wind:<br>
+It did not come anear;<br>
+But with its sound it shook the sails,<br>
+That were so thin and sere.<br>
+<br>
+The upper air burst into life!<br>
+And a hundred fire-flags sheen,<br>
+To and fro they were hurried about!<br>
+And to and fro, and in and out,<br>
+The wan stars danced between.<br>
+<br>
+And the coming wind did roar more loud,<br>
+And the sails did sigh like sedge,<br>
+And the rain poured down from one black cloud;<br>
+The Moon was at its edge.<br>
+<br>
+The thick black cloud was cleft, and still<br>
+The Moon was at its side:<br>
+Like waters shot from some high crag,<br>
+The lightning fell with never a jag,<br>
+A river steep and wide.<br>
+<br>
+The loud wind never reached the ship,<br>
+Yet now the ship moved on!<br>
+Beneath the lightning and the Moon<br>
+The dead men gave a groan.<br>
+<br>
+They groaned, they stirred, they all uprose,<br>
+Nor spake, nor moved their eyes;<br>
+It had been strange, even in a dream,<br>
+To have seen those dead men rise.<br>
+<br>
+The helmsman steered, the ship moved on;<br>
+Yet never a breeze up-blew;<br>
+The mariners all 'gan work the ropes,<br>
+Where they were wont to do;<br>
+They raised their limbs like lifeless tools—<br>
+We were a ghastly crew.<br>
+<br>
+The body of my brother's son<br>
+Stood by me, knee to knee:<br>
+The body and I pulled at one rope,<br>
+But he said nought to me.<br>
+<br>
+'I fear thee, ancient Mariner!'<br>
+Be calm, thou Wedding-Guest!<br>
+'Twas not those souls that fled in pain,<br>
+Which to their corses came again,<br>
+But a troop of spirits blest:<br>
+<br>
+For when it dawned—they dropped their arms,<br>
+And clustered round the mast;<br>
+Sweet sounds rose slowly through their mouths,<br>
+And from their bodies passed.<br>
+<br>
+Around, around, flew each sweet sound,<br>
+Then darted to the Sun;<br>
+Slowly the sounds came back again,<br>
+Now mixed, now one by one.<br>
+<br>
+Sometimes a-dropping from the sky<br>
+I heard the sky-lark sing;<br>
+Sometimes all little birds that are,<br>
+How they seemed to fill the sea and air<br>
+With their sweet jargoning!<br>
+<br>
+And now 'twas like all instruments,<br>
+Now like a lonely flute;<br>
+And now it is an angel's song,<br>
+That makes the heavens be mute.<br>
+<br>
+It ceased; yet still the sails made on<br>
+A pleasant noise till noon,<br>
+A noise like of a hidden brook<br>
+In the leafy month of June,<br>
+That to the sleeping woods all night<br>
+Singeth a quiet tune.<br>
+<br>
+Till noon we quietly sailed on,<br>
+Yet never a breeze did breathe:<br>
+Slowly and smoothly went the ship,<br>
+Moved onward from beneath.<br>
+<br>
+Under the keel nine fathom deep,<br>
+From the land of mist and snow,<br>
+The spirit slid: and it was he<br>
+That made the ship to go.<br>
+The sails at noon left off their tune,<br>
+And the ship stood still also.<br>
+<br>
+The Sun, right up above the mast,<br>
+Had fixed her to the ocean:<br>
+But in a minute she 'gan stir,<br>
+With a short uneasy motion—<br>
+Backwards and forwards half her length<br>
+With a short uneasy motion.<br>
+<br>
+Then like a pawing horse let go,<br>
+She made a sudden bound:<br>
+It flung the blood into my head,<br>
+And I fell down in a swound.<br>
+<br>
+How long in that same fit I lay,<br>
+I have not to declare;<br>
+But ere my living life returned,<br>
+I heard and in my soul discerned<br>
+Two voices in the air.<br>
+<br>
+'Is it he?' quoth one, 'Is this the man?<br>
+By him who died on cross,<br>
+With his cruel bow he laid full low<br>
+The harmless Albatross.<br>
+<br>
+The spirit who bideth by himself<br>
+In the land of mist and snow,<br>
+He loved the bird that loved the man<br>
+Who shot him with his bow.'<br>
+<br>
+The other was a softer voice,<br>
+As soft as honey-dew:<br>
+Quoth he, 'The man hath penance done,<br>
+And penance more will do.'<br>
+<br>
+<h3>PART VI</h3><br>
+<br>
+First Voice<br>
+'But tell me, tell me! speak again,<br>
+Thy soft response renewing—<br>
+What makes that ship drive on so fast?<br>
+What is the ocean doing?'<br>
+<br>
+Second Voice<br>
+Still as a slave before his lord,<br>
+The ocean hath no blast;<br>
+His great bright eye most silently<br>
+Up to the Moon is cast—<br>
+<br>
+If he may know which way to go;<br>
+For she guides him smooth or grim.<br>
+See, brother, see! how graciously<br>
+She looketh down on him.'<br>
+<br>
+First Voice<br>
+'But why drives on that ship so fast,<br>
+Without or wave or wind?'<br>
+<br>
+Second Voice<br>
+'The air is cut away before,<br>
+And closes from behind.<br>
+<br>
+Fly, brother, fly! more high, more high!<br>
+Or we shall be belated:<br>
+For slow and slow that ship will go,<br>
+When the Mariner's trance is abated.'<br>
+<br>
+I woke, and we were sailing on<br>
+As in a gentle weather:<br>
+'Twas night, calm night, the moon was high;<br>
+The dead men stood together.<br>
+<br>
+All stood together on the deck,<br>
+For a charnel-dungeon fitter:<br>
+All fixed on me their stony eyes,<br>
+That in the Moon did glitter.<br>
+<br>
+The pang, the curse, with which they died,<br>
+Had never passed away:<br>
+I could not draw my eyes from theirs,<br>
+Nor turn them up to pray.<br>
+<br>
+And now this spell was snapt: once more<br>
+I viewed the ocean green,<br>
+And looked far forth, yet little saw<br>
+Of what had else been seen—<br>
+<br>
+Like one, that on a lonesome road<br>
+Doth walk in fear and dread,<br>
+And having once turned round walks on,<br>
+And turns no more his head;<br>
+Because he knows, a frightful fiend<br>
+Doth close behind him tread.<br>
+<br>
+But soon there breathed a wind on me,<br>
+Nor sound nor motion made:<br>
+Its path was not upon the sea,<br>
+In ripple or in shade.<br>
+<br>
+It raised my hair, it fanned my cheek<br>
+Like a meadow-gale of spring—<br>
+It mingled strangely with my fears,<br>
+Yet it felt like a welcoming.<br>
+<br>
+Swiftly, swiftly flew the ship,<br>
+Yet she sailed softly too:<br>
+Sweetly, sweetly blew the breeze—<br>
+On me alone it blew.<br>
+<br>
+Oh! dream of joy! is this indeed<br>
+The light-house top I see?<br>
+Is this the hill? is this the kirk?<br>
+Is this mine own countree?<br>
+<br>
+We drifted o'er the harbour-bar,<br>
+And I with sobs did pray—<br>
+O let me be awake, my God!<br>
+Or let me sleep alway.<br>
+<br>
+The harbour-bay was clear as glass,<br>
+So smoothly it was strewn!<br>
+And on the bay the moonlight lay,<br>
+And the shadow of the Moon.<br>
+<br>
+The rock shone bright, the kirk no less,<br>
+That stands above the rock:<br>
+The moonlight steeped in silentness<br>
+The steady weathercock.<br>
+<br>
+And the bay was white with silent light,<br>
+Till rising from the same,<br>
+Full many shapes, that shadows were,<br>
+In crimson colours came.<br>
+<br>
+A little distance from the prow<br>
+Those crimson shadows were:<br>
+I turned my eyes upon the deck—<br>
+Oh, Christ! what saw I there!<br>
+<br>
+Each corse lay flat, lifeless and flat,<br>
+And, by the holy rood!<br>
+A man all light, a seraph-man,<br>
+On every corse there stood.<br>
+<br>
+This seraph-band, each waved his hand:<br>
+It was a heavenly sight!<br>
+They stood as signals to the land,<br>
+Each one a lovely light;<br>
+<br>
+This seraph-band, each waved his hand,<br>
+No voice did they impart—<br>
+No voice; but oh! the silence sank<br>
+Like music on my heart.<br>
+<br>
+But soon I heard the dash of oars,<br>
+I heard the Pilot's cheer;<br>
+My head was turned perforce away<br>
+And I saw a boat appear.<br>
+<br>
+The Pilot and the Pilot's boy,<br>
+I heard them coming fast:<br>
+Dear Lord in Heaven! it was a joy<br>
+The dead men could not blast.<br>
+<br>
+I saw a third—I heard his voice:<br>
+It is the Hermit good!<br>
+He singeth loud his godly hymns<br>
+That he makes in the wood.<br>
+He'll shrieve my soul, he'll wash away<br>
+The Albatross's blood.<br>
+<br>
+<h3>PART VII</h3><br>
+This Hermit good lives in that wood<br>
+Which slopes down to the sea.<br>
+How loudly his sweet voice he rears!<br>
+He loves to talk with marineres<br>
+That come from a far countree.<br>
+<br>
+He kneels at morn, and noon, and eve—<br>
+He hath a cushion plump:<br>
+It is the moss that wholly hides<br>
+The rotted old oak-stump.<br>
+<br>
+The skiff-boat neared: I heard them talk,<br>
+'Why, this is strange, I trow!<br>
+Where are those lights so many and fair,<br>
+That signal made but now?'<br>
+<br>
+'Strange, by my faith!' the Hermit said—<br>
+'And they answered not our cheer!<br>
+The planks looked warped! and see those sails,<br>
+How thin they are and sere!<br>
+I never saw aught like to them,<br>
+Unless perchance it were<br>
+<br>
+Brown skeletons of leaves that lag<br>
+My forest-brook along;<br>
+When the ivy-tod is heavy with snow,<br>
+And the owlet whoops to the wolf below,<br>
+That eats the she-wolf's young.'<br>
+<br>
+'Dear Lord! it hath a fiendish look—<br>
+(The Pilot made reply)<br>
+I am a-feared'—'Push on, push on!'<br>
+Said the Hermit cheerily.<br>
+<br>
+The boat came closer to the ship,<br>
+But I nor spake nor stirred;<br>
+The boat came close beneath the ship,<br>
+And straight a sound was heard.<br>
+<br>
+Under the water it rumbled on,<br>
+Still louder and more dread:<br>
+It reached the ship, it split the bay;<br>
+The ship went down like lead.<br>
+<br>
+Stunned by that loud and dreadful sound,<br>
+Which sky and ocean smote,<br>
+Like one that hath been seven days drowned<br>
+My body lay afloat;<br>
+But swift as dreams, myself I found<br>
+Within the Pilot's boat.<br>
+<br>
+Upon the whirl, where sank the ship,<br>
+The boat spun round and round;<br>
+And all was still, save that the hill<br>
+Was telling of the sound.<br>
+<br>
+I moved my lips—the Pilot shrieked<br>
+And fell down in a fit;<br>
+The holy Hermit raised his eyes,<br>
+And prayed where he did sit.<br>
+<br>
+I took the oars: the Pilot's boy,<br>
+Who now doth crazy go,<br>
+Laughed loud and long, and all the while<br>
+His eyes went to and fro.<br>
+'Ha! ha!' quoth he, 'full plain I see,<br>
+The Devil knows how to row.'<br>
+<br>
+And now, all in my own countree,<br>
+I stood on the firm land!<br>
+The Hermit stepped forth from the boat,<br>
+And scarcely he could stand.<br>
+<br>
+'O shrieve me, shrieve me, holy man!'<br>
+The Hermit crossed his brow.<br>
+'Say quick,' quoth he, 'I bid thee say—<br>
+What manner of man art thou?'<br>
+<br>
+Forthwith this frame of mine was wrenched<br>
+With a woful agony,<br>
+Which forced me to begin my tale;<br>
+And then it left me free.<br>
+<br>
+<br>
+Since then, at an uncertain hour,<br>
+That agony returns:<br>
+And till my ghastly tale is told,<br>
+This heart within me burns.<br>
+<br>
+I pass, like night, from land to land;<br>
+I have strange power of speech;<br>
+That moment that his face I see,<br>
+I know the man that must hear me:<br>
+To him my tale I teach.<br>
+<br>
+What loud uproar bursts from that door!<br>
+The wedding-guests are there:<br>
+But in the garden-bower the bride<br>
+And bride-maids singing are:<br>
+And hark the little vesper bell,<br>
+Which biddeth me to prayer!<br>
+<br>
+O Wedding-Guest! this soul hath been<br>
+Alone on a wide wide sea:<br>
+So lonely 'twas, that God himself<br>
+Scarce seemèd there to be.<br>
+<br>
+O sweeter than the marriage-feast,<br>
+'Tis sweeter far to me,<br>
+To walk together to the kirk<br>
+With a goodly company!—<br>
+<br>
+To walk together to the kirk,<br>
+And all together pray,<br>
+While each to his great Father bends,<br>
+Old men, and babes, and loving friends<br>
+And youths and maidens gay!<br>
+<br>
+Farewell, farewell! but this I tell<br>
+To thee, thou Wedding-Guest!<br>
+He prayeth well, who loveth well<br>
+Both man and bird and beast.<br>
+<br>
+He prayeth best, who loveth best<br>
+All things both great and small;<br>
+For the dear God who loveth us,<br>
+He made and loveth all.<br>
+<br>
+The Mariner, whose eye is bright,<br>
+Whose beard with age is hoar,<br>
+Is gone: and now the Wedding-Guest<br>
+Turned from the bridegroom's door.<br>
+<br>
+He went like one that hath been stunned,<br>
+And is of sense forlorn:<br>
+A sadder and a wiser man,<br>
+He rose the morrow morn.<br>
+]]>
+    </string>
+    <string name="summary_The_Lady_of_the_Lake">
+        The Lady of the Lake, poem in six cantos by Sir Walter Scott, published in 1810. Composed primarily in octosyllabic tetrameter couplets, it mines Gaelic history to retell a well-known legend about the graceful feudal heroine Ellen Douglas. The poem, which is set in the Scottish Highlands in the 16th century, recounts the banishment and eventual restoration of the noble Douglas family.
+    </string>
+    <string name="summary_Nineteen_Eighty_Four">
+        "<![CDATA[
+        In the year 1984, civilization has been damaged by world war, civil conflict, and revolution. Airstrip One (formerly known as Great Britain) is a province of Oceania, one of the three totalitarian super-states that rule the world. It is ruled by the "Party" under the ideology of "Ingsoc" (a Newspeak shortening of "English Socialism") and the mysterious leader Big Brother, who has an intense cult of personality. The Party brutally purges out anyone who does not fully conform to their regime using the Thought Police and constant surveillance through Telescreens (two-way televisions), cameras, and hidden microphones. Those who fall out of favour with the Party become "unpersons", disappearing with all evidence of their existence destroyed.<br>
+<br>
+        In London, Winston Smith is a member of the Outer Party, working at the Ministry of Truth, where he rewrites historical records to conform to the state\'s ever-changing version of history. Winston revises past editions of The Times, while the original documents are destroyed after being dropped into ducts leading to the memory hole. He secretly opposes the Party\'s rule and dreams of rebellion, despite knowing that he is already a "thoughtcriminal" and likely to be caught one day.<br>
+<br>
+        While in a proletariat (prole) neighbourhood, he meets Mr. Charrington, the owner of an antiques shop, and buys a diary where he writes thoughts criticising the Party and Big Brother, and also writes that "if there is hope, it lies in the proles". To his dismay, when he visits a prole quarter he discovers they have no political consciousness. An old man he talks to there has no significant memory of life before the Revolution. As he works in the Ministry of Truth, he observes Julia, a young woman maintaining the novel-writing machines at the ministry, whom Winston suspects of being a spy against him, and develops an intense hatred of her. He vaguely suspects that his superior, an Inner Party official O\'Brien, is part of an enigmatic underground resistance movement known as the Brotherhood, formed by Big Brother\'s reviled political rival Emmanuel Goldstein. In a lunch conversation with his co-worker Syme, who is assisting in developing a revised version of Newspeak (a controlled language of limited vocabulary), Syme bluntly reveals the true purpose of Newspeak: to reduce the capacity of human thought. Winston reflects that Syme will disappear as he is "too intelligent" and therefore dangerous to the Party. Winston also discusses preparations for Hate Week with his neighbour and colleague Parsons.<br>
+<br>
+        One day, Julia secretly hands Winston a note saying she loves him, and the two begin a torrid affair; an act of rebellion as the Party insists that sex is only for reproduction. Julia shares Winston\'s loathing of the Party, but he realizes that she is politically apathetic and uninterested in overthrowing the regime, thinking it impossible. Initially meeting in the country, they later meet in a rented room above Mr. Charrington\'s shop. During his affair with Julia, Winston remembers the disappearance of his family during the civil war of the 1950s and his tense relationship with his wife Katharine, from whom he is separated (divorce is not permitted by the Party). He also notices the disappearance of Syme during one of his working days. Weeks later, Winston is approached by O'Brien, who invites Winston over to his flat, which is noted as being of far higher quality than Winston's. O'Brien introduces himself as a member of the Brotherhood and sends Winston a copy of The Theory and Practice of Oligarchical Collectivism by Goldstein. Meanwhile, during the nation's Hate Week, Oceania's enemy suddenly changes from Eurasia to Eastasia, with no-one seemingly noticing the shift. Winston is recalled to the Ministry to help make the major necessary revisions of the records. Afterwards Winston and Julia read parts of the book, which explains more about how the Party maintains power, the true meanings of its slogans, and the concept of perpetual war. It argues that the Party can be overthrown if proles rise up against it. However, to Winston, it does not answer 'why' the Party is motivated to maintain power.<br>
+<br>
+        Winston and Julia are captured and imprisoned when Mr. Charrington is revealed to be a Thought Police agent. At the Ministry of Love, Winston briefly interacts with colleagues who have been arrested for other offences. O'Brien arrives, revealing himself as a Thought Police agent, who tells Winston that the Brotherhood does not exist and Emmanuel Goldstein's book was written collaboratively by O'Brien and the Party themselves as part of a special sting operation to catch thought-criminals. Over several months, Winston is starved and tortured to "cure" himself of his "insanity" by changing his own perception to fit in line with the Party. O'Brien reveals to Winston that the Party "seeks power for its own sake." When he taunts Winston by asking him if there is any humiliation which he has not yet been made to suffer, Winston points out that the Party has not managed to make him betray Julia, even after he accepted the party's invincibility and its principles. Winston accepts internally that he really means he has not rescinded his feelings toward Julia; he betrays her by revealing her crimes many times. He fantasizes that moments before his execution his heretic side will emerge, which, as long as he is killed while unrepentant, will be his great victory over the Party.<br>
+<br>
+        O'Brien takes Winston to Room 101 for the final stage of re-education, which contains each prisoner's worst fear, indicating that the level of surveillance on the public is far more thorough than initially believed by Winston. Confronted with a wire cage holding frenzied rats, his biggest fear, in his face, Winston willingly betrays Julia by wishing the suffering upon her instead. Winston is released back into public life and continues to frequent the Chestnut Tree Café. One day, Winston encounters Julia, who was also tortured. Both reveal that they have betrayed the other and no longer possess feelings for one other. Back in the café, a news alert sounds and celebrates Oceania's supposed massive victory over Eurasian armies in Africa. Winston finally accepts that he loves Big Brother.<br>
+        ]]>"
+    </string>
+    <string name="summary_The_Jungle_Book">
+        "<![CDATA[
+        “The Jungle book” is a collection of topic-related stories written by English writer and Nobel-prize winner Rudyard Kipling. Stories were published in magazines within 1893 and 1894, each one followed with original illustrations, some of which were made by author’s father.
+<br/><br/>
+Although the stories were written while living in Vermont, the author found inspiration in his childhood spent in India, where he returned for a couple of years after finishing college.
+<br/><br/>
+Allegedly, the stories were dedicated to his daughter who passed away at the age of six, not long after the first edition of the book was published.
+<br/><br/>
+The book consists of 14 chapters or stories about a boy named Mowgli who got lost in a jungle when he was just a little boy. When mother wolf found him and accepted as one of her own calves, Mowgli was brought up and raised among animals who were taking good care of him and taught him the laws of the jungle. He was living happily and carefree, only the tiger Shere-Khan was spreading the fear among the jungle animals, scaring Mowgli as well.
+<br/><br/>
+In this book animals are personified, becoming intelligent as humans, caring and emotionally attached to the little boy like he was the one of their own. Mowgli is capable of talking to them, as they were given the knowledge of human speech or Mowgli somehow succeeded in learning  their way of communication.
+<br/><br/>
+Animals described have high moral standards, laws which they obey to and teach Mowgli about them. Also, they preach respect  among all living beings and Nature itself. A righteousness of the animals can be used as a lesson for people’s behavior. Besides vicious assassin tiger Sheer-Khan, humans are in the role of the leading villains in this book. Scaring the other living creatures, people are described as usurpers of nature without having  any respect towards other living beings; acting reckless, unaware  of consequences of their actions.
+<br/><br/>
+The book is actually an allegorical representation of modern life influenced and ruled by various politics. Book characters became extremely popular in 1967., after the book- inspired cartoon got released.
+<br/><br/>
+Mowgli and his friends Baloo the bear, panther Bagheera, python Kaa and scary tiger Sheer-Khan became modern day icons, recognized instantly by every child. Nevertheless, despite the famous cartoon, every child should read this interesting and educative book.
+<br/><br/>
+Here you will be able to read the summary of 3 stories: “Mowgli’s Brothers”, “Kaas Hunting”, and “Tiger Tiger!”
+<br/><br/>
+<h3>Mowgli’s Brothers</h3>
+<br/><br/>
+It was a hot summer night. The wolfs were resting during the hot afternoon and gathering strength to go hunting when the sun goes down. Everything was quiet until they heard something in the bushes. There was a strange creature. He was completely naked and barely knew how to walk. He was human.
+<br/><br/>
+He settled in with the little wolfs with no fear while showing an impressing strength because Shere-Khan was coming after him. Mother Wolf adored this little creature and decided to accept him but soon a conflict with Shere-Khan came along because he wanted to get his hands on the baby.
+<br/><br/>
+Shere-Khan was despised because he was only hunting starved animals and humans and that was not alright by the laws of the jungle. Even though Shere-Khan tried to get the baby out of the wolf’s pack he couldn’t do it because he faced mother wolf. She defended the baby.
+<br/><br/>
+For new decisions made in the pack, the whole pack was supposed to be present. Mother and father wolf had to speak with the pack about the baby. Once a new young member was introduced to the pack nobody could harm him.
+<br/><br/>
+Some wolf were furious because of the human introduced to their pack. Mowgli, which means frog, was accepted into the pack of the free people as the wolf were calling themselves and after that the bear Baloo and panther Bagheera stood up for him. Mowgli became a part of the pack. As the wolfs were growing so was he and he adapted to their lifestyle by learning from them. He studied The law of the jungle and Baloo was very helpful around that.
+<br/><br/>
+Shere-Khan still couldn’t get over the fact that a human youngling slipped right through his paws and he often turned young wolf against him. Akela, an old wolf, was the end of his life path and very weak. He was afraid for Mowgli and everything that Shere Khan could do to him.
+<br/><br/>
+Bagheera was born amongst people so she knew a lot about their customs. She told Mowgli that he should go to the human world and get the red flower that animals are afraid of and that was fire. Soon a new full moon arrived and Shere Khan was getting ready to take down the old Akela.
+<br/><br/>
+That got Mowgli so angry that he decided to fight Shere Khan but what Shere Khan didn’t know was that Mowgli had the fire. He set a branch on fire and he started to hit him with it. Shere Khan and his accomplices ran away from the fire.
+<br/><br/>
+Mowgli realized that the jungle wasn’t safe for him after this battle. He had to say goodbye to his wolf family but he promised them that he will come back and bring them the skin of Shere Khan. The next morning was sad and Mowgli went searching for the creatures named people.
+<br/><br/>
+<h3>Kaas Hunting</h3>
+<br/><br/>
+While he still wasn’t expatriated Mowgli had to learn a lot from the wolf and that led to several conflicts with his teacher Baloo. In the heat of the moment, he told him once that he spent some time in the woods with the Bandar-log.
+<br/><br/>
+They were monkeys with a very low status in the jungle. They did not have a leader nor did they stick to any law. They spent their days babbling and shouting meaningless songs. They did it all because they were trying to get some attention.
+<br/><br/>
+One of the monkeys came to the idea that it would be good to become friends with Mowgli because he knew how to do shelters of undergrowth. They even thought that they could become the most powerful ones in the jungle if he was their leader so they followed Baloo, Bagheera and Mowgli on their journeys through the jungle.
+<br/><br/>
+Around noon, they decided to get some rest. Mowgli fell asleep and the monkeys went down and kidnapped him. They ran away screaming and carrying Mowgli with them. They were proud that the attention of the panther Bagheera was theirs now. Even though the bear and the panther went after them they were fast as them.
+<br/><br/>
+They came up with a plan and talked with the enemy of the monkey, the constrictor Kaa. Kaa did not want to work with them at first but Baloo and Bagheera stated some insults that the monkeys said about him so he accepted their offer. With the help of a hawk, they found out that Mowgli was in the Cold lair. That was a torn up town.
+<br/><br/>
+One of the monkeys was giving a speech proudly where he stated that Mowgli’s presence signifies a new start for them. Mowgli tried to teach them how to make shelters but he saw that the monkeys were losing interest. They started to pull each other tales and got restless so soon he realized that Baloo was right. He decided he should get back to his jungle.
+<br/><br/>
+Baloo, Bagheera, and Kaa already had a plan on how to get to Mowgli. All of the sudden a big battle started and everything got noisy. The monkeys realized that they were facing a stronger enemy so they backed down and the strong Kaa knocked down the wall and freed Mowgli. Even though Mowgli apologized he was punished for his behavior. He got beat up and they all returned to mother wolf.
+<br/><br/>
+<h3>Tiger! Tiger!</h3>
+<br/><br/>
+After he was expatriated from the jungle Mowgli didn’t stop in the first village because it was too close to the jungle where so many of his enemies were. He crossed paths with a man who got so afraid of Mowgli that he called the priest. The similarity between this boy and the lost boy Nathoom was unbelievable so it was suggested that he should be adopted by the lost boys mom Messu.
+<br/><br/>
+For Mowgli, a new period of learning started. He was getting used to human customs, how to get dressed, work in the fields. A big problem for him was money. After 3 months of education, they named him a shepherd and he was taking the buffalos to the pasture. He also participated in the meeting of the village club.
+<br/><br/>
+A lot of stories were told at the meeting about the jungle and most of them were told by the hunter Buldeo. When Mowgli called him a liar he was ordered to take the buffalos far away from the village. He encountered The Gray brother. He was the oldest son of a mother wolf and he warned him that he wasn’t safe here because Shere Khan could come after him.
+<br/><br/>
+There was a time for him to confront Shere Khan once and for all. He called to his assistance Akela who separated the buffalos, calves, and cows. They send the buffalos after Shere Khan who was resting after a meal and when he started to run he encountered the angry buffaloes and they killed him.
+<br/><br/>
+When Shere Khan was dead Mowgli had the chance to take his skin but the hunter Buldeo caught him and blacked mailed him because he wanted the skin of the wolf. Mowgli scared him with his wolf pack. Buldeo was terrified and told everyone in the village about Mowgli’s sorcery. When Mowgli came to the village the villagers were throwing rocks at him. He has expatriated again and said goodbye to Messu.
+<br/><br/>
+He was bitter because of everything that happened to him. When he showed the wolf’s Shere Khans skin they wanted him to be their leader but he refused. He said that the humans and the wolf rejected him so that from now on he will be hunting alone.
+<br/><br/>
+Place: jungle, village
+<br/>
+Characters: Mowgli, Bagheera, Baloo, Shere Khan
+        ]]>
+    </string>
+    <string name="summary_The_Time_Machine">
+        "<![CDATA[
+       The book's protagonist is a Victorian English scientist and gentleman inventor living in Richmond, Surrey, identified by a narrator simply as the Time Traveller. Similarly, with but one exception (a man named Filby) none of the dinner guests present are ever identified by name, but rather by profession (for example, "the Psychologist") or physical description (for example, "the Very Young Man").<br><br>
+       The narrator recounts the Traveller's lecture to his weekly dinner guests that time is simply a fourth dimension and demonstrates a tabletop model machine for travelling through the fourth dimension. He reveals that he has built a machine capable of carrying a person through time, and returns at dinner the following week to recount a remarkable tale, becoming the new narrator.<br><br>
+       In the new narrative, the Time Traveller tests his device. At first he thinks nothing has happened but soon finds out he went five hours into the future. He continues forward and sees his house disappear and turn into a lush garden. The Time Traveller stops in A.D. 802,701, where he meets the Eloi, a society of small, elegant, childlike adults. They live in small communities within large and futuristic yet slowly deteriorating buildings, and adhere to a fruit-based diet. His efforts to communicate with them are hampered by their lack of curiosity or discipline. They appear happy and carefree but fear the dark, and particularly moonless nights. Observing them, he finds that they give no response to mysterious nocturnal disappearances, possibly because the thought of it alone frightens them into silence. He speculates that they are a peaceful society. After exploring the area around the Eloi's residences, the Time Traveller reaches the top of a hill overlooking London. He concludes that the entire planet has become a garden, with little trace of human society or engineering from the hundreds of thousands of years prior.<br><br>
+       Returning to the site where he arrived, the Time Traveller is shocked to find his time machine missing and eventually concludes that it has been dragged by some unknown party into a nearby structure with heavy doors, locked from the inside, which resembles a Sphinx. Luckily, he had removed the machine's levers before leaving it (the time machine being unable to travel through time without them). Later in the dark, he is approached menacingly by the Morlocks, ape-like troglodytes who live in darkness underground and surface only at night. Exploring one of many "wells" that lead to the Morlocks' dwellings, he discovers the machinery and industry that makes the above-ground paradise of the Eloi possible. He alters his theory, speculating that the human race has evolved into two species: the leisured classes have become the ineffectual Eloi, and the downtrodden working classes have become the brutal light-fearing Morlocks.<br><br>
+       Deducing that the Morlocks have taken his time machine, he explores the Morlock tunnels, learning that due to a lack of any other means of sustenance, they feed on the Eloi. His revised analysis is that their relationship is not one of lords and servants but of livestock and ranchers. The Time Traveller theorizes that intelligence is the result of and response to danger; with no real challenges facing the Eloi, they have lost the spirit, intelligence, and physical fitness of humanity at its peak.<br><br>
+       Meanwhile, he saves an Eloi named Weena from drowning as none of the other Eloi take any notice of her plight, and they develop an innocently affectionate relationship over the course of several days. He takes Weena with him on an expedition to a distant structure dubbed "The Palace of Green Porcelain", which turns out to be a derelict museum. Here, the Time Traveller finds a fresh supply of matches and fashions a crude weapon against Morlocks, whom he must fight to get back his machine. He plans to take Weena back to his own time. Because the long and tiring journey back to Weena's home is too much for them, they stop in the forest for the night. They are then overcome by Morlocks in the night, whereby Weena faints. The Traveller escapes when a small fire he had left behind them to distract the Morlocks catches up to them as a forest fire; Weena and the pursuing Morlocks are lost in the fire and the Time Traveller is devastated over his loss.<br><br>
+       The Morlocks open the Sphinx and use the time machine as bait to capture the Traveller, not understanding that he will use it to escape. He reattaches the levers before he travels further ahead to roughly 30 million years from his own time. There he sees some of the last living things on a dying Earth: Menacing reddish crab-like creatures slowly wandering the blood-red beaches chasing enormous butterflies, in a world covered in simple lichenous vegetation. He continues to make jumps forward through time, seeing Earth's rotation gradually cease and the sun grow larger, redder, and dimmer, and the world falling silent and freezing as the last degenerate living things die out.<br><br>
+       Overwhelmed, he goes back to the machine and returns to his own time, arriving at the laboratory just three hours after he originally left. He arrives late to his own dinner party, whereupon, after eating, the Time Traveller relates his adventures to his disbelieving visitors, producing as evidence two strange white flowers Weena had put in his pocket.<br><br>
+       The original narrator then takes over and relates that he returned to the Time Traveller's house the next day, finding him preparing for another journey and promising to return in a short time. However, the narrator reveals that he has waited three years before writing and stating the Time Traveller has not returned from his journey."<br><br>
+    ]]>"
+    </string>
+</resources>
